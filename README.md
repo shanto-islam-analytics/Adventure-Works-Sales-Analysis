@@ -79,7 +79,7 @@ This project turns six raw tables into one interactive Excel dashboard that answ
 | Item | Detail |
 |---|---|
 | Dataset | Adventure Works sample data (fictional company, not real sales) |
-| Source | [add source link] |
+| Source | https://github.com/Microsoft/sql-server-samples/blob/master/samples/databases/adventure-works/README.md |
 | Sales period | 2023 – 2026 (sample dates, see note below) |
 | Fact table | `FactInternetSales`, 60,398 rows |
 | Dimension tables | `DimCustomer` (18,484), `DimDate` (2,191), `DimGeography` (655), `DimProduct` (606), `DimSalesTerritory` (10) |
